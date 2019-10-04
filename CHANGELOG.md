@@ -1,10 +1,11 @@
 # sequelize-auto-v3 change log
+## 0.6.1
+- add comment as geography in table for DataTypes.GEOGRAPHY('POINT', 4326)
 
 ## 0.6.0
 - Forked from sequelize-auto-v2
 - Many edits, published as sequelize-auto-v3
 - It's probably broken
-
 
 ## Master
 
