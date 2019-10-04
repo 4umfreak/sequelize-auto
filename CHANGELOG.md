@@ -1,8 +1,8 @@
-# sequelize-auto-v2 change log
+# sequelize-auto-v3 change log
 
-## 0.5.0
-- Forked from sequelize-auto
-- Many edits, published as sequelize-auto-v2
+## 0.6.0
+- Forked from sequelize-auto-v2
+- Many edits, published as sequelize-auto-v3
 - It's probably broken
 
 
