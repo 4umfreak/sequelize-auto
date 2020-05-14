@@ -1,17 +1,17 @@
-# Sequelize-Auto-v2
+# Sequelize-Auto-v3
 
-[![Build Status](https://travis-ci.org/4umfreak/sequelize-auto-v2.svg?branch=master)](https://travis-ci.org/4umfreak/sequelize-auto-v2)
-[![Coverage Status](https://coveralls.io/repos/github/4umfreak/sequelize-auto-v2/badge.svg?branch=master)](https://coveralls.io/github/4umfreak/sequelize-auto-v2?branch=master)
+[![Build Status](https://travis-ci.org/4umfreak/sequelize-auto-v3.svg?branch=master)](https://travis-ci.org/4umfreak/sequelize-auto-v3)
+[![Coverage Status](https://coveralls.io/repos/github/4umfreak/sequelize-auto-v3/badge.svg?branch=master)](https://coveralls.io/github/4umfreak/sequelize-auto-v3?branch=master)
 
 Automatically generate models for [SequelizeJS](https://github.com/sequelize/sequelize) via the command line.
 
-## Why v2?
+## Why v3?
 
-I ran into issues with the published sequelize-auto and it was two major versions behind Sequelize. 
+I ran into issues with the published sequelize-auto and it was two major versions behind Sequelize.
 
 ## Install
 
-    npm install -g sequelize-auto-v2
+    npm install -g sequelize-auto-v3
 
 ## Prerequisites
 
